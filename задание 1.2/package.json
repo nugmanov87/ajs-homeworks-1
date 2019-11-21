@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/nugmanov87/ajs-homeworks/issues"
   },
-  "homepage": "https://github.com/nugmanov87/ajs-homeworks#readme"
+  "homepage": "https://github.com/nugmanov87/ajs-homeworks#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.7.0",
+    "core-js": "^3.4.1"
+  }
 }

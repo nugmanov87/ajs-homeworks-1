@@ -1,0 +1,27 @@
+{
+  "name": "3r34",
+  "version": "1.0.0",
+  "description": "task 3",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nugmanov87/ajs-homeworks.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Spartak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nugmanov87/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/nugmanov87/ajs-homeworks#readme"
+}
